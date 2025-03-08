@@ -1,8 +1,19 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+@{
+    ViewData["Title"] = "Welcome to SmartOps";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container text-center mt-5">
+    <h1 class="display-4">Welcome to SmartOps</h1>
+    <p class="lead">
+        SmartOps is your ultimate book management solution.
+        Easily add, categorize, and track your book collection.
+    </p>
+
+
+    <a href="@Url.Action("Index", "Category")" class="btn btn-primary btn-lg">
+        Explore Categories
+    </a>
+    <a href="@Url.Action("Index", "Product")" class="btn btn-success btn-lg">
+        View Books
+    </a>
 </div>
