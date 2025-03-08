@@ -1,0 +1,51 @@
+﻿@using SmartOps.Models.Product
+@model ProductViewModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<div class="form-position">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Add Product</h4>
+                <form class="forms-sample" asp-controller="Product" asp-action="Add" method="post">
+                    <input type="hidden" asp-for="Id" />
+
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input type="text" class="form-control" asp-for="Name" placeholder="Enter Name">
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <input type="text" class="form-control" asp-for="Description" placeholder="Enter Description">
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Price">Price</label>
+                        <input type="number" step="0.01" class="form-control" asp-for="Price" placeholder="Enter Price">
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="StockQuantity">Stock Quantity</label>
+                        <input type="number" class="form-control" asp-for="StockQuantity" placeholder="Enter Stock Quantity">
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Sku">SKU</label>
+                        <input type="text" class="form-control" asp-for="Sku" placeholder="Enter SKU">
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="CategoryId">Category</label>
+                        <input type="text" class="form-control" asp-for="CategoryId" placeholder="Enter Category ID">
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button type="reset" class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

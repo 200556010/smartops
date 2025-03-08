@@ -1,0 +1,11 @@
+D:\AIProject\SmartOps\Infrastructure\Model\bin\Debug\net9.0\Model.deps.json
+D:\AIProject\SmartOps\Infrastructure\Model\bin\Debug\net9.0\Model.dll
+D:\AIProject\SmartOps\Infrastructure\Model\bin\Debug\net9.0\Model.pdb
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.AssemblyInfoInputs.cache
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.AssemblyInfo.cs
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.csproj.CoreCompileInputs.cache
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.dll
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\refint\Model.dll
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\Model.pdb
+D:\AIProject\SmartOps\Infrastructure\Model\obj\Debug\net9.0\ref\Model.dll

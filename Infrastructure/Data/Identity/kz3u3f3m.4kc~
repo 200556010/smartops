@@ -1,0 +1,30 @@
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using System.Security.Claims;
+
+namespace Data.Identity
+{
+    /// <summary>
+    /// Application DbContext
+    /// </summary>
+    /// <seealso cref="IdentityDbContext&lt;ApplicationUser,ApplicationRole,string&gt;" />
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
+    {
+        private readonly IHttpContextAccessor _httpContextAccessor;
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="ApplicationDbContext"/> class.
+        /// </summary>
+        /// <param name="options">The options.</param>
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IHttpContextAccessor httpContextAccessor, SmartOpsContext dbContext)
+            : base(options)
+        {
+            _httpContextAccessor = httpContextAccessor;
+        }
+
+        protected ClaimsPrincipal? User => _httpContextAccessor?.HttpContext?.User;
+        protected string? UserId => User is not null ? User.Claims.Where(c => c.Type == ClaimTypes.NameIdentifier).Select(c => c.Value).FirstOrDefault() : "";
+
+    }
+}

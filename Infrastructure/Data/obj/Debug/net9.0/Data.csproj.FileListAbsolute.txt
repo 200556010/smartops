@@ -1,0 +1,14 @@
+D:\AIProject\SmartOps\Infrastructure\Data\bin\Debug\net9.0\Data.deps.json
+D:\AIProject\SmartOps\Infrastructure\Data\bin\Debug\net9.0\Data.dll
+D:\AIProject\SmartOps\Infrastructure\Data\bin\Debug\net9.0\Data.pdb
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.dll
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\refint\Data.dll
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.pdb
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\ref\Data.dll
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+D:\AIProject\SmartOps\Infrastructure\Data\bin\Debug\net9.0\Data.runtimeconfig.json
+D:\AIProject\SmartOps\Infrastructure\Data\obj\Debug\net9.0\Data.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿@using SmartOps.Models.Category
+@model CategoryViewModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<div class="form-position">
+    <div class="col-md-6 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Add</h4>
+                <form class="forms-sample" asp-controller="Category" asp-action="Add" method="post">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group">
+                        <label asp-for="Name">Name</label>
+                        <input type="text" class="form-control" asp-for="Name" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description">Description</label>
+                        <input type="text" class="form-control" asp-for="Description" placeholder="Description">
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
