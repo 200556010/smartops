@@ -1,0 +1,1 @@
+bookmanagement-e0eae0gyfmgmexat.canadacentral-01.azurewebsites.net
