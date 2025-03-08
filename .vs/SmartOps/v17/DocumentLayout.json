@@ -1,50 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AIProject\\SmartOps\\",
+  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\SmartOps\\SmartOps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|d:\\aiproject\\smartops\\web\\smartops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|d:\\aiproject\\smartops\\web\\smartops\\wwwroot\\js\\pages\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\wwwroot\\js\\pages\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|d:\\aiproject\\smartops\\web\\smartops\\wwwroot\\js\\pages\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\wwwroot\\js\\pages\\category.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|d:\\aiproject\\smartops\\infrastructure\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|solutionrelative:infrastructure\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|d:\\aiproject\\smartops\\infrastructure\\model\\product\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|solutionrelative:infrastructure\\model\\product\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|d:\\aiproject\\smartops\\web\\smartops\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|d:\\aiproject\\smartops\\infrastructure\\model\\account\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|solutionrelative:infrastructure\\model\\account\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|d:\\aiproject\\smartops\\infrastructure\\model\\account\\adminlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96E11FD4-FBE3-4DCC-952B-95F84FE507A0}|Infrastructure\\Model\\Model.csproj|solutionrelative:infrastructure\\model\\account\\adminlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|d:\\aiproject\\smartops\\infrastructure\\service\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|solutionrelative:infrastructure\\service\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|d:\\aiproject\\smartops\\infrastructure\\service\\contract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A69C2BE6-F642-4A56-9D1F-D0DB04199092}|Infrastructure\\Service\\Service.csproj|solutionrelative:infrastructure\\service\\contract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|d:\\aiproject\\smartops\\web\\smartops\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|c:\\users\\shrey\\desktop\\smartops\\smartops\\web\\smartops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87AC35D1-AB0C-4CAF-914F-840AB9ED46F4}|Web\\SmartOps\\SmartOps.csproj|solutionrelative:web\\smartops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +14,187 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 42,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web\\SmartOps\\Views\\Product\\Index.cshtml",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Web\\SmartOps\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-08T03:30:23.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "product.js",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\wwwroot\\js\\Pages\\product.js",
-              "RelativeDocumentMoniker": "Web\\SmartOps\\wwwroot\\js\\Pages\\product.js",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\wwwroot\\js\\Pages\\product.js",
-              "RelativeToolTip": "Web\\SmartOps\\wwwroot\\js\\Pages\\product.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-08T03:29:57.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "category.js",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\wwwroot\\js\\Pages\\category.js",
-              "RelativeDocumentMoniker": "Web\\SmartOps\\wwwroot\\js\\Pages\\category.js",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\wwwroot\\js\\Pages\\category.js",
-              "RelativeToolTip": "Web\\SmartOps\\wwwroot\\js\\Pages\\category.js",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-08T03:29:50.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductListModel.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Product\\ProductListModel.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Model\\Product\\ProductListModel.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Product\\ProductListModel.cs",
-              "RelativeToolTip": "Infrastructure\\Model\\Product\\ProductListModel.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwEMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:27:41.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Account\\UserModel.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Model\\Account\\UserModel.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Account\\UserModel.cs",
-              "RelativeToolTip": "Infrastructure\\Model\\Account\\UserModel.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAAAIcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:20:18.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AdminListModel.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Account\\AdminListModel.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Model\\Account\\AdminListModel.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Model\\Account\\AdminListModel.cs",
-              "RelativeToolTip": "Infrastructure\\Model\\Account\\AdminListModel.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwDEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T03:20:10.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Implementation\\AccountService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Service\\Implementation\\AccountService.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Implementation\\AccountService.cs",
-              "RelativeToolTip": "Infrastructure\\Service\\Implementation\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:39:56.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Contract\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Service\\Contract\\IAccountService.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Contract\\IAccountService.cs",
-              "RelativeToolTip": "Infrastructure\\Service\\Contract\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:39:07.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Implementation\\ProductService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Service\\Implementation\\ProductService.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Infrastructure\\Service\\Implementation\\ProductService.cs",
-              "RelativeToolTip": "Infrastructure\\Service\\Implementation\\ProductService.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAswJkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:18:00.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Web\\SmartOps\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Web\\SmartOps\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAkwGYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:17:45.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Web\\SmartOps\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\AIProject\\SmartOps\\Web\\SmartOps\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Web\\SmartOps\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAowA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:16:03.741Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\SmartOps\\SmartOps\\Web\\SmartOps\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\SmartOps\\appsettings.json",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\SmartOps\\SmartOps\\Web\\SmartOps\\appsettings.json",
+              "RelativeToolTip": "Web\\SmartOps\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:29:20.566Z",
               "EditorCaption": ""
             }
           ]
